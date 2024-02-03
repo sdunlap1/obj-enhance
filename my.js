@@ -1,4 +1,8 @@
-// Writing a ES2015 Version
+/* 
+================================
+=== Writing a ES2015 Version ===
+================================
+ */
 
 //Same keys and values
 function createInstructor(firstName, lastName) {
