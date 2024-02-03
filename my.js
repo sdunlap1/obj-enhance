@@ -1,6 +1,6 @@
 // Writing a ES2015 Version
 
-// Same keys and values
+//Same keys and values
 function createInstructor(firstName, lastName) {
   return {
     firstName,
